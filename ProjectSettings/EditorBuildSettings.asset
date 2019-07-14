@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Genetic/Scenes/MenuScene.unity
+    guid: a08dced934c4a94468cee6f36269c00d
+  - enabled: 1
+    path: Assets/Genetic/Scenes/Genetic Algorithm.unity
+    guid: 6d850d19f42f5184dac4a582970059b4
+  m_configObjects: {}
